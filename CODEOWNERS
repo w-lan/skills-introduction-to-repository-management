@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @w-lan
+/src/backend/database.py      @w-lan
+/src/backend/routers/auth.py  @w-lan
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @w-lan
